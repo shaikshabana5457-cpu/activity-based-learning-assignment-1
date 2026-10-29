@@ -3,7 +3,11 @@
 
 ## Student Details
 
--**Name**:Shaik.Shabana Reshmi
--**Roll Number**:CSM26170
--**Branch**:CSM
--**Section**:3
+-**Name**
+:Shaik.Shabana Reshmi
+-**Roll Number**
+:CSM26170
+-**Branch**
+:CSM
+-**Section**
+:3
